@@ -1,0 +1,50 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "Petach-tikwa"
+    },
+    {
+      "id": 2,
+      "name": "Jerusalem"
+    },
+    {
+      "id": 3,
+      "name": "Tel-aviv"
+    }
+  ],
+  "resturants":[
+    {
+      "id":1,
+      "name":"Best-food",
+      "cityId":1,
+      "avgprice":100,
+      "stars":4,
+      "image":"https://images.rest.co.il/Customers/80306948/7798245f96ef41e5a3a7c2d502b55160_56.jpg"
+    },
+    {
+      "id":2,
+      "name":"Best-on-earth",
+      "cityId":2,
+      "avgprice":20,
+      "stars":5,
+      "image":"https://images.rest.co.il/Customers/80261384/a49c0d2f0c7d44d89946f96dd2a83406_56.jpg"
+    },
+    {
+      "id":3,
+      "name":"Best-price",
+      "cityId":3,
+      "avgprice":10,
+      "stars":2,
+      "image":"https://images.rest.co.il/Customers/80349059/896fbeb4a7664352adb3119eff280395_56.jpg"
+    },
+    {
+      "id":4,
+      "name":"resturant-for-bests",
+      "cityId":3,
+      "avgprice":300,
+      "stars":4,
+      "image":"https://images.rest.co.il/Rests/Media/Articles/30164/c5094d24e7f649e4bef263c24aae1fde.jpg"
+    }
+  ]
+}
